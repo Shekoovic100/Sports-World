@@ -10,7 +10,7 @@
 - API (sports DB)
 - Core Data 
 
-## screenShots: 
+## ScreenShots: 
 
 <div style="display: flex; flex-direction: row;">
  <img align="center" src="https://user-images.githubusercontent.com/31698280/187800008-4f0642e0-2c2e-45fa-9e05-d19cf80cfa71.png" width="150" height="280" />
